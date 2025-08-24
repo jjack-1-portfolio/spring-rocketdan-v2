@@ -8,7 +8,7 @@
 
 ## 프로젝트 시연영상
 
-<video src="https://github.com/user-attachments/assets/1b2f0507-0636-4f16-a0e2-48709d407600" controls width="600"></video>
+<video src="https://github.com/user-attachments/assets/0dbbb461-fc7e-40e3-863a-9d27123c53a5" controls width="600"></video>
 
 ## 목차
 
@@ -44,11 +44,11 @@
 
 ## 📄 API 문서
 
-[//]: # (![api1]&#40;docs/images/api1.png&#41;)
+![api1](docs/images/api1.png)
 
-[//]: # (![api2]&#40;docs/images/api2.png&#41;)
+![api2](docs/images/api2.png)
 
-[//]: # (![api3]&#40;docs/images/api3.png&#41;)
+![api3](docs/images/api3.png)
 
 <a id="주요기능"></a>
 
@@ -80,7 +80,9 @@
 | (개인) | 개인 회원의 이력서 정보 | 개인이 작성한 이력서 정보에 대해 상세보기(READ), 작성(CREATE), 수정(UPDATE), 삭제(DELETE) 기능 구현. 응답 DTO 설계 및 맵핑 |
 | (개인) | 개인 회원의 공고 지원  | 개인이 공고에 지원하는 것에 대해 상세보기(READ), 등록(CREATE). 응답 DTO 설게 및 맵핑                               |
 
-# 👥 팀 멤버
+<a id="팀원"></a>
+
+## 👥 팀원
 
 | 이름  | 역할 | GitHub                                       |
 |-----|----|----------------------------------------------|
@@ -90,9 +92,9 @@
 | 이연호 | 팀원 | [@yh88888888](https://github.com/yh88888888) |
 | 조하은 | 팀원 | [@TaengGyul](https://github.com/TaengGyul)   |
 
-# ⚙️ 기술 스택
+<a id="기술스택"></a>
 
-## 🛠️ 사용 기술
+## 🛠️기술스택
 
 <table>
   <tr>
